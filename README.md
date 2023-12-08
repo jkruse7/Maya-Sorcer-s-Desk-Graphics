@@ -1,4 +1,4 @@
-# Maya-Sorcer's-Desk-Graphics
+# Maya-Sorcerer's-Desk-Graphics
 This is a scene I made of a fantasy sorcer's desk following [this](https://www.youtube.com/watch?v=tZieJcA5vf0) tutorial. I added a few of my own objects and textures as well. 
 
 ### Preview:
